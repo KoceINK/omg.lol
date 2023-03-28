@@ -30,3 +30,5 @@ If you have found a location other than the ones above claiming to be affiliated
 ## Why does this list exist?
 
 This list exists to help you ensure that you’re only dealing with official, legitimate omg.lol services. (In other words, if someone came along and registered “omg-support-scam.omg.lol” and suggested that you enter your credentials there, this page would confirm that would be a bad idea.)
+
+testing
